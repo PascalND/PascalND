@@ -44,9 +44,11 @@ Software developer passionate about Clean Code and Test-Driven Development. I lo
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PascalND&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PascalND&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PascalND&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PascalND&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PascalND&theme=radical&hide_border=true)](https://github.com/PascalND)
 
 ## 📫 Contact
 
