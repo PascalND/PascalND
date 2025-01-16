@@ -9,7 +9,7 @@ Software developer passionate about Clean Code and Test-Driven Development. I lo
 ## 💻 Tech Stack
 
 ### 🔥 Core Competencies
-- C++ (Modern C++, STL, Boost)
+- C++ (Modern C++, STL)
 - Clean Code Development
 - Test-Driven Development (Google Test, Google Mock)
 - Python (NumPy, PyTest)
