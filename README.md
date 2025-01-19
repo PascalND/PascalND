@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub Profile!
 
-[![GitHub followers](https://img.shields.io/github/followers/PascalND?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/PascalND?label=Follow&style=social)](https://github.com/PascalND)
 
 ## 🚀 About Me
 
